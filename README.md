@@ -5,3 +5,9 @@ https://www.figma.com/design/9kLkVX3upTfCg6hSCtcmWs/FitBooster?node-id=1624-904&
 https://gamma.app/docs/Do-Problema-ao-MVP-jnijh88h3dsizd3
 ## Documento
 https://docs.google.com/document/d/102iJuPztNeiDlplQkzkVY9hVStRrdYcvQADgZH6IqUw/edit?usp=sharing
+
+## Grupo
+Everton Gean de Oliveira Pinheiro,
+João Manoel de Fontes Carneiro,
+Sara Maria Alves de Lima,
+Vitor Junior Silva Alves.
