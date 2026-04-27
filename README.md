@@ -8,6 +8,7 @@ https://docs.google.com/document/d/102iJuPztNeiDlplQkzkVY9hVStRrdYcvQADgZH6IqUw/
 
 ## Grupo
 Everton Gean de Oliveira Pinheiro,
+Hector dos Santos Medeiros
 João Manoel de Fontes Carneiro,
 Sara Maria Alves de Lima,
 Vitor Junior Silva Alves.
